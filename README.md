@@ -6,7 +6,7 @@ Here is my personal road map. It is based on the test automation map, created by
 
 https://www.youtube.com/watch?v=-WnTkcq_By0&t=420s
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/-WnTkcq_By0&t=420s/0.jpg)](https://www.youtube.com/watch?v=-WnTkcq_By0&t=420s)
+[https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 So what I did? After watching this video carefully I've tailored my personal preferences to the above listed topics
 
