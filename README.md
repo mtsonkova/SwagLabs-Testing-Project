@@ -22,6 +22,10 @@ Jira to be used for test case execution and bug tracking system.
 
 <img width="952" alt="Tests" src="https://github.com/user-attachments/assets/1067c99f-d6e4-4c75-b125-255f9164b732">
 
+### Defects
+
+<img width="947" alt="Defects" src="https://github.com/user-attachments/assets/76ddaf17-9408-4250-bd4c-32ec6ec62eaa">
+
 ### Project Dashboard 10/16/2024
 
 <img width="938" alt="Project Dashboard" src="https://github.com/user-attachments/assets/d9e2d91e-d72c-467e-9c63-0528b46e0435">
