@@ -18,6 +18,9 @@ Jira to be used for test case execution and bug tracking system.
 
 <img width="943" alt="SwagLabs tasks" src="https://github.com/user-attachments/assets/b17fdbd4-3e4f-465e-a882-127dee11d08f">
 
-### Project Dashboard 10/15/2024
 
-<img width="938" alt="SwagLabs Jira Dashboard" src="https://github.com/user-attachments/assets/28e7c992-d193-48b3-88a2-61eaddfc4eb8">
+
+### Project Dashboard 10/16/2024
+
+<img width="938" alt="Project Dashboard" src="https://github.com/user-attachments/assets/d9e2d91e-d72c-467e-9c63-0528b46e0435">
+
