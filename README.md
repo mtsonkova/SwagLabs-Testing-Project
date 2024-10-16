@@ -4,6 +4,8 @@ Creating project space in Jira.
 
 Jira to be used for test case execution and bug tracking system.
 
+Link to test automation repository of the project => https://github.com/mtsonkova/SwagLabs-Testing-Project-Automation-with-Playwright
+
 ## Project Configuration:
 
 ### Epics
